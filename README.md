@@ -21,3 +21,4 @@ ipad
 <img src="/www/img/ipad2.png">
 <img src="/www/img/ipad3.png">
 <img src="/www/img/proyectestr.png">
+<img src="/www/img/resultadooriginal.png">
