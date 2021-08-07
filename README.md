@@ -21,4 +21,9 @@ ipad
 <img src="/www/img/ipad2.png">
 <img src="/www/img/ipad3.png">
 <img src="/www/img/proyectestr.png">
+Resultado original
 <img src="/www/img/resultadooriginal.png">
+
+
+
+APK con cordova/phonegap
